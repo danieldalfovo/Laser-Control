@@ -5,13 +5,11 @@ Keywords:
 Laser CHOP, Audio Device Out CHOP
 Copy SOP, Stamping
 
-This repository also contains the installation files of all necessary drivers for Windows 10.
-
 ### Software Setup
-- TouchDesigner
-- LA-Toolbox
-- ASIO Driver
-- RME MADInet Driver
+- TouchDesigner (https://derivative.ca/download)
+- LA-Toolbox (https://laseranimation.com/de/kundenbereich/lasersysteme/la-toolbox)
+- ASIO Driver (https://www.asio4all.org/)
+- RME MADInet Driver (https://www.rme-audio.de/digiface-avb.html)
 
 ### Hardware Setup
 - Windows / Mac
