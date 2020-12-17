@@ -5,6 +5,8 @@ Keywords:
 Laser CHOP, Audio Device Out CHOP
 Copy SOP, Stamping
 
+This repository also contains the installation files of all necessary drivers for Windows 10.
+
 ### Software Setup
 - TouchDesigner
 - LA-Toolbox
