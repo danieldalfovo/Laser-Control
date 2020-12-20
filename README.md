@@ -21,6 +21,7 @@ Copy SOP, Stamping
 - General Setup
 - Laser CHOP
 - Connecting multiple Lasers
+Playlist link on Youtube: https://youtube.com/playlist?list=PLflnaFRsw4u3YRX6hyk-Jq4XSCeIB9Mid
 
 ## Sharing
 You are free to use any of the components created in this repository.
